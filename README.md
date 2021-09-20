@@ -5,8 +5,8 @@ The program listed here can easily extract any Symptoms experienced, Diseases me
 
 The program uses Natural Language Processing for the algorithm. The datasets used are from trusted medical organizations around the world like WebMD, WHO and Centre for Disease Control.
 
-FlowChart:
-
+FlowChart: <br><br>:
+![alt text](https://github.com/arshmittal16/Medical-Keyword-Extractor/blob/master/Images/Flow.jpeg)
 
 Methodology: 
 1. Input is taken from the user
@@ -18,7 +18,8 @@ Methodology:
 Live Link: 
 https://arshmittal16.github.io/Medical-Keyword-Extractor-1/
 
-Example Input:
+Example Input: <br><br>
+![alt text](https://github.com/arshmittal16/Medical-Keyword-Extractor/blob/master/Images/Inp.jpeg)
 
-Example Output:
-
+Example Output: <br><br>
+![alt text](https://github.com/arshmittal16/Medical-Keyword-Extractor/blob/master/Images/Out.jpeg) 
